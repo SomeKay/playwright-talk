@@ -2,3 +2,5 @@
 
 This repository is a collection of Markdown, TypeScript and image files which
 make up the presentation delivered at Fundamental Conf 2022.
+
+![Fundamental Conference](00.png "Fundamental Conference")
